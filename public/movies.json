@@ -1,72 +1,72 @@
 [
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 420,
+    "id": "124e13b9-2d54-4b2f-a74d-fsdgdsg",
+    "name": "Radhe",
+    "ticketprice": 42,
     "ratings": 7,
     "img": "/images/radhe.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 320,
+    "id": "124e13b9-2d54-4b2f-a74d-fdgserg",
+    "name": "Gangubai Kathiawadi",
+    "ticketprice": 32,
     "ratings": 6,
-    "img": "../images/radhe.jpg"
+    "img": "../images/Gangubai Kathiawadi.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 520,
+    "id": "124e13b9-2d54-4b2f-a74d-dsarfbdf",
+    "name": "83",
+    "ticketprice": 52,
     "ratings": 8,
-    "img": "../images/radhe.jpg"
+    "img": "../images/83.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 220,
+    "id": "124e13b9-2d54-4b2f-a74d-faerrger",
+    "name": "Pushpa",
+    "ticketprice": 22,
     "ratings": 5,
-    "img": "../images/radhe.jpg"
+    "img": "../images/pushpa.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 500,
+    "id": "124e13b9-2d54-4b2f-a74d-dzgfwrstwe",
+    "name": "RRR",
+    "ticketprice": 50,
     "ratings": 8.5,
-    "img": "../images/radhe.jpg"
+    "img": "../images/rrr.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 120,
+    "id": "124e13b9-2d54-4b2f-a74d-eswrzdsf",
+    "name": "Spider Man:No Way Home",
+    "ticketprice": 12,
     "ratings": 7,
-    "img": "../images/radhe.jpg"
+    "img": "../images/spider-man-No way home.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 620,
+    "id": "124e13b9-2d54-4b2f-a74d-aw3er4q3",
+    "name": "The Cursed",
+    "ticketprice": 62,
     "ratings": 9,
-    "img": "../images/radhe.jpg"
+    "img": "../images/The Cursed.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 520,
+    "id": "124e13b9-2d54-4b2f-a74d-w3r423edr",
+    "name": "The Fate of Swordsman",
+    "ticketprice": 52,
     "ratings": 8,
-    "img": "../images/radhe.jpg"
+    "img": "../images/the fate of swordsman.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 320,
+    "id": "124e13b9-2d54-4b2f-a74d-wa53re",
+    "name": "Theal",
+    "ticketprice": 32,
     "ratings": 6,
-    "img": "../images/radhe.jpg"
+    "img": "../images/theal.jpg"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "RADHE",
-    "ticket-price": 320,
+    "id": "124e13b9-2d54-4b2f-a74d-w34swar3ew",
+    "name": "Yutha Satham",
+    "ticketprice": 32,
     "ratings": 7,
-    "img": "../images/radhe.jpg"
+    "img": "../images/yutha satham.jpg"
   }
 ]
