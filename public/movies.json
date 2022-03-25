@@ -1,0 +1,72 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 420,
+    "ratings": 7,
+    "img": "/images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 320,
+    "ratings": 6,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 520,
+    "ratings": 8,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 220,
+    "ratings": 5,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 500,
+    "ratings": 8.5,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 120,
+    "ratings": 7,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 620,
+    "ratings": 9,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 520,
+    "ratings": 8,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 320,
+    "ratings": 6,
+    "img": "../images/radhe.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "RADHE",
+    "ticket-price": 320,
+    "ratings": 7,
+    "img": "../images/radhe.jpg"
+  }
+]
