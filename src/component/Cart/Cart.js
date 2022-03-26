@@ -3,7 +3,6 @@ import SelectedMovie from '../SelectedMovies/SelectedMovie';
 import './Cart.css'
 
 const Cart = ({cartItems , clrCartItems,selectOne}) => {
-    console.log(clrCartItems)
      if(cartItems.length >= 5){
          alert('Only 4 movies you can select')
         

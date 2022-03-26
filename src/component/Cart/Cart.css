@@ -45,3 +45,11 @@
 .error-msg p{
     padding-top: 13px;
 }
+@media (max-width:600px) {
+    .selected-items{
+        position: sticky;
+        left: 0;
+        width: 100%;
+    }
+    
+}

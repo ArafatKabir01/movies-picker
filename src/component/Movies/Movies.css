@@ -10,3 +10,25 @@
     margin-left: 200px;
     margin-top: 20px;
 }
+@media (max-width:600px) {
+    .cart-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .movie-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+    }
+
+    .movies-section{
+        width: 240px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 0px;
+        padding: 0;
+    }
+    
+}
