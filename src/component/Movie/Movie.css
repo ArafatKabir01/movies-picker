@@ -17,6 +17,10 @@
     margin-left: 10px;
 }
 .Card-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
     width: 100%;
     border: none;
     border-top: 1px solid black;

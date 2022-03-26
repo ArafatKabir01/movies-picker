@@ -18,17 +18,29 @@ const Movies = () => {
     };
     
     const clrCart = () => {
+    const errorMsg = document.getElementById('errorText');
+    errorMsg.style.display='none';
       const removeItems = [];
       setCart(removeItems);
  
       }
     const randomSelection = () => {
-        const randomNum =Math.floor( Math.random()*4);
-        console.log(randomNum)
-        console.log(cart[0])
-      const randimItems = [cart[randomNum]];
-      console.log(randimItems)
-      setCart(randimItems);
+        const errorMsg = document.getElementById('errorText');
+        if(cart.length == 4){
+            errorMsg.innerHTML=``;
+            const randomNum =Math.floor( Math.random()*4);
+            console.log(randomNum)
+            console.log(cart[0])
+            const randomItems = [cart[randomNum]];
+            console.log(randomItems)
+            setCart(randomItems);
+
+        }
+        else{
+            errorMsg.style.display='block';
+            errorMsg.innerHTML=`<p>Please minimum select 4 movies</p>`;
+        }
+
 
  
       }

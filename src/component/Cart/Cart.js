@@ -19,6 +19,7 @@ const Cart = ({cartItems , clrCartItems,selectOne}) => {
                 
 
             </div>
+            <div className='error-msg' id='errorText'></div>
             <div className='catr-buttons'>
             <button  onClick={()=> selectOne()} className='cart-btn'><p>Choose One</p></button>
             <button onClick={()=> clrCartItems()} className='cart-btn'><p>Choose Again</p></button>

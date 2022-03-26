@@ -33,4 +33,15 @@
 .selected-movies{
     height: 500px;
 }
+.error-msg{
+    display: none;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: red;
 
+}
+.error-msg p{
+    padding-top: 13px;
+}

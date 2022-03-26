@@ -8,7 +8,6 @@ const SelectedMovie = ({cart}) => {
                 <img src={cart.img}></img>
                 <h4>{cart.name}</h4>   
             </div>
-       
         </div>
     );
 };
