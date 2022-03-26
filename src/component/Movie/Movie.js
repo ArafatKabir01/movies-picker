@@ -10,10 +10,10 @@ const Movie = ({movie}) => {
                 <img src={img} alt=''></img>
                 <div className='movie-info'>
                     <h2>{name}</h2>
-                    <p>ticket Price: ${ticketprice}</p>
+                    <p>Ticket Price: ${ticketprice}</p>
                     <p>Rating : {ratings}</p>
                 </div>
-                <button><p>Add to Cart</p></button>
+                <button className='Card-btn'><p>Add to Cart</p></button>
             </div>
 
         </div>

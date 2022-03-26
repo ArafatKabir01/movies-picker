@@ -1,0 +1,26 @@
+.selected-items{
+    width: 400px;
+    height: 700px;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 3px 8px 14px 5px #888888;
+    margin-right: 70px;
+    margin-top:20px;
+    text-align: center;
+    padding-top: 30px;
+    position: fixed;
+    left: 1400px;
+}
+.cart-btn{
+    margin-top: 400px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 10px;
+    color: azure;
+    background-color: rgb(45 26 56);
+}
+.cart-btn:hover{
+    background-color: crimson;
+    transition: 0.2s;
+}

@@ -1,5 +1,6 @@
 import React from 'react';
 import { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Movie from '../Movie/Movie';
 import './Movies.css'
 
@@ -11,11 +12,16 @@ const Movies = () => {
       .then(data => setMovies(data))
     },[])
     return (
-        <div>
+        <div className='movie-container' >
+            <div className='movies-section'>
             {movies.map(movie => <Movie
                         key={movie.id}
                         movie={movie}
             ></Movie>)}
+            </div>
+        <div className='cart-section'>
+            <Cart></Cart>
+        </div>    
         </div>
     );
 };
