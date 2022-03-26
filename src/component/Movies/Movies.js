@@ -22,6 +22,16 @@ const Movies = () => {
       setCart(removeItems);
  
       }
+    const randomSelection = () => {
+        const randomNum =Math.floor( Math.random()*4);
+        console.log(randomNum)
+        console.log(cart[0])
+      const randimItems = [cart[randomNum]];
+      console.log(randimItems)
+      setCart(randimItems);
+
+ 
+      }
     return (
         <div className='movie-container' >
             <div className='movies-section'>
@@ -32,7 +42,7 @@ const Movies = () => {
             ></Movie>)}
             </div>
         <div className='cart-section'>
-            <Cart key={cart.id} clrCartItems={clrCart} cartItems={cart}></Cart>
+            <Cart key={cart.id} clrCartItems={clrCart} selectOne ={randomSelection} cartItems={cart}></Cart>
         </div>    
         </div>
     );

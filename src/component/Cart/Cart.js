@@ -2,7 +2,7 @@ import React from 'react';
 import SelectedMovie from '../SelectedMovies/SelectedMovie';
 import './Cart.css'
 
-const Cart = ({cartItems , clrCartItems}) => {
+const Cart = ({cartItems , clrCartItems,selectOne}) => {
     console.log(clrCartItems)
      if(cartItems.length >= 5){
          alert('Only 4 movies you can select')
@@ -19,8 +19,8 @@ const Cart = ({cartItems , clrCartItems}) => {
                 
 
             </div>
-            <div>
-            <button className='cart-btn'><p>Choose One</p></button>
+            <div className='catr-buttons'>
+            <button  onClick={()=> selectOne()} className='cart-btn'><p>Choose One</p></button>
             <button onClick={()=> clrCartItems()} className='cart-btn'><p>Choose Again</p></button>
             </div>
         
